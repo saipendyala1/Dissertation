@@ -1,2 +1,2 @@
 # Dissertation
-My Final Project Dissertation
+My MSc Computer Science Project Dissertation
